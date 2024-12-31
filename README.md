@@ -4,9 +4,9 @@ To install git: sudo apt install git
 
 To install NodeJS: 
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
---------------------------------------------------------------------------------
+
 source ~/.bashrc
--------------------------------------------------------------------------------
+
 nvm install --lts
 
 To clone the repository: git clone <link_of_the_repository>
